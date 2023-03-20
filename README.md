@@ -1,4 +1,4 @@
-### <div align="center">I'm Jayant Verma, a Full-time data scientist📈🖥️with a passion for Problem-Solving and a Proven Track Record in Data Analysis & Machine Learning end-to-end Projects.</div>  
+### <div align="center">Data Scientist📈🖥️with a passion for Problem-Solving and a Proven Track Record in Data Analysis & Machine Learning end-to-end Projects.</div>  
   
 
 - 🔭 I’m currently working on [-](-)  
