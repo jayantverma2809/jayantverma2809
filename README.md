@@ -1,7 +1,7 @@
 ### <div align="center">Data Scientist📈🖥️with a passion for Problem-Solving and a Proven Track Record in Data Analysis & Machine Learning end-to-end Projects.</div>  
   
 
-- 🔭 I’m currently working on [-](-)  
+- 🔭 I’m currently working on [Stock Analysis App](https://lnkd.in/g2AX5DFj)  
   
 
 - 🌱 I’m currently learning Deep Learning and Natural Language Processing  
