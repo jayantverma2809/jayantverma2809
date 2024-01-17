@@ -1,4 +1,4 @@
-### <div align="center">Data Scientist📈🖥️with a passion for Problem-Solving and a Proven Track Record in Data Analysis & Machine Learning end-to-end Projects.</div>  
+### <div align="center">📈🖥️Innovative AI Explorer | Data Scientist | Python Developer | Transforming Challenges into Solutions</div>  
   
 
 - 🔭 I’m currently working on [Stock Analysis App](https://lnkd.in/g2AX5DFj)  
