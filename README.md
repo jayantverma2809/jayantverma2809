@@ -1,13 +1,10 @@
 ### <div align="center">📈🖥️Innovative AI Explorer | Data Scientist | Python Developer | Transforming Challenges into Solutions</div>  
+
+  
+- 🌱 I’m currently learning Deep Learning, Natural Language Processing, AI and AWS  
   
 
-- 🔭 I’m currently working on [Stock Analysis App](https://lnkd.in/g2AX5DFj)  
-  
-
-- 🌱 I’m currently learning Deep Learning and Natural Language Processing  
-  
-
-- ⚡ Looking to collaborate on data science and machine learning projects  
+- ⚡ Looking to collaborate on machine learning and ai projects  
   
 
 <br/>  
@@ -36,14 +33,11 @@
 <a href="https://linkedin.com/in/jayantverma28" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/_kanhayia" target="_blank">
+<a href="https://www.instagram.com/_._.kanhaiya/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/jayantverma2809" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/jayantverma9380" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+<a href="https://twitter.com/__kanhaiya__" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
