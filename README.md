@@ -46,7 +46,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jayantverma2809&show_icons=true&count_private=true&hide_border=true" align="center"  /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jayantverma2809&show_icons=true&count_private=true&hide_border=true" align="center"  />
+![jayantverma2809's Stats](https://github-readme-stats.vercel.app/api?username=jayantverma2809&theme=flag-india&show_icons=true&hide_border=false&count_private=true)
+</div>  
 
 <br/>  
 
