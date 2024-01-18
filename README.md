@@ -1,6 +1,6 @@
 # 💫 About Me:
 AI Explorer | Data Scientist | Python Developer | Transforming Challenges into Solutions
-- 🌱 I’m currently learning Deep Learning, Natural Language Processing, AI and AWS 
+- 🌱 I’m currently learning Deep Learning, Natural Language Processing, Generative AI and AWS 
 - ⚡ Looking to collaborate on machine learning and ai projects  
 
 
